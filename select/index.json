@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SKILL TEST（feat. DABO、Charlu）",
+  "base_artist": "Novel Core",
+  "createdAt": "2025-12-24T13:00:08.527647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SKILL TEST feat. DABO, Charlu",
+      "artist": "Novel Core",
+      "has_synced": true,
+      "path": "select/01_SKILL_TEST_feat._DABO,_Charlu_Novel_Core.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SKILL TEST feat. DABO, Charlu",
+      "artist": "Novel Core",
+      "has_synced": false,
+      "path": "select/pl_01_SKILL_TEST_feat._DABO,_Charlu_Novel_Core.txt"
+    }
+  ]
+}
